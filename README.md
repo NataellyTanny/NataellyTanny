@@ -1,16 +1,15 @@
-### Hi there 👋
+## Oiê, eu sou a Tanny!! 
 
-<!--
-**NataellyTanny/NataellyTanny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Sou estudante de Análise e desenvolvimento de sistemas
+- 👩‍💻 Estágiária na empresa Jchebly
+- 🌱 Estou estudando JavaScript
+- 💬 Contate-me no e-mail: tannykotake@gmail.com
+- ⚡ Curiosidade: Estou em transição de carreira
 
-Here are some ideas to get you started:
+ <div>
+  <a href="https://github.com/nataellytanny">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
