@@ -8,8 +8,8 @@
 
 <div>
  <a href="https://github.com/nataellytanny">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nataellytanny&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataellytanny&layout=compact&langs_count=7&theme=midnight-purple"/>
+ <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nataellytanny&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+ <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataellytanny&layout=compact&langs_count=7&theme=midnight-purple"/>
   <img align="right" alt="tanny" src="https://i.picasion.com/pic91/72e9eba1b4815e1df810ebed3de44579.gif">
 </div>
  
