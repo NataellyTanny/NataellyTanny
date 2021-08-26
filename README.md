@@ -9,7 +9,7 @@
  <img align="center" alt="tanny-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="tanny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="tanny-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="right" alt="tanny" src="https://i.picasion.com/pic91/4ab56e2fc6607023ca4c1d4e451e6653.gif">
+ <img align="right" alt="tanny" src="https://i.picasion.com/pic91/d73b685fb67f3e25998302191fd754b4.gif">
 </div>
 
 ## 
