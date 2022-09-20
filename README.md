@@ -12,6 +12,7 @@
 
 #### In this space I will put solo projects, and projects made together with the courses I participate.
 
-###### Esses são os meus contatos | These are my contacts:
-###### [LinkedIn](https://www.linkedin.com/in/nataellytanny/)
-###### E-mail: <tannykotake@gmail.com>
+###### Você me encontra aqui:/You find me here:
+###### [LinkedIn](https://www.linkedin.com/in/nataellytanny/) | E-mail: <tannykotake@gmail.com>
+
+
